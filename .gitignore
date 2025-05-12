@@ -1,0 +1,17 @@
+venv/
+
+__pycache__/
+*.py[cod]
+*.pyo
+
+*.env
+*.DS_Store
+.vscode/
+.idea/
+
+*.log
+*.tmp
+
+.ipynb_checkpoints/
+
+kobart_model/
